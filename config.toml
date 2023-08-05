@@ -119,13 +119,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 enabled = false
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
 
-[vsco]
-apkmirror-dlurl = "https://apkmirror.com/apk/vsco/vsco-cam"
-build-mode = "both"
-
-[slide-for-reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/haptic-apps/slide-for-reddit"
-build-mode = "both"
 
 []
         
